@@ -2,8 +2,8 @@
 
 > This project is a Sample of React & Next.js app which whos the current Bitcoin value in USD, GBP and EUR
 
-#API used in the application 
-https://api.coindesk.com/v1/bpi/currentprice.json
+## API used in the application 
+> https://api.coindesk.com/v1/bpi/currentprice.json
 
 ## Quick Start
 
