@@ -1,6 +1,9 @@
 # BitzPrice
 
-> Sample Next.js app which whos the current Bitcoin value in USD, GBP and EUR
+> This project is a Sample of React & Next.js app which whos the current Bitcoin value in USD, GBP and EUR
+
+#API used in the application 
+https://api.coindesk.com/v1/bpi/currentprice.json
 
 ## Quick Start
 
@@ -15,17 +18,3 @@ npm run dev
 npm run build
 ```
 
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
