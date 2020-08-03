@@ -16,5 +16,14 @@
     "next": "^4.2.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajal1106/BitcoinPrice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kajal1106/BitcoinPrice/issues"
+  },
+  "homepage": "https://github.com/kajal1106/BitcoinPrice#readme"
 }
